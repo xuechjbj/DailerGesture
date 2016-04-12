@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dailer Gesture</string>
+    <string name="hint_msg">Put your 4 fingers on the screen, rotate and check...</string>
+    <string name="action_settings">Settings</string>
+</resources>
